@@ -9,7 +9,7 @@ Tipulator is a tip calculator application for iOS.
 
 Submitted by: **Anthony Cicardo**
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## User Stories
 
