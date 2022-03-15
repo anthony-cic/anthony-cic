@@ -7,7 +7,8 @@ Pennsylvania State Computer Science Student
 
 
 Some facts about me: 
-Markup : * d
+* Sophomore 
+* Minoring in Mathematics 
 
 
 
