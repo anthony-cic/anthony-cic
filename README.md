@@ -9,6 +9,11 @@ Pennsylvania State Computer Science Student
 Some facts about me: 
 * Sophomore 
 * Minoring in Mathematics 
+* Profficiency in Python, Java, SQL, C, Swift 
+* Passionate to learn 
+
+Linkedin: 
+www.linkedin.com/in/anthony-cicardo-66b4a2208
 
 
 
