@@ -1,3 +1,13 @@
-Anthony Cicardo
+# Anthony Cicardo #
+## abc6181@psu.edu ##   ![image](https://user-images.githubusercontent.com/69987069/158298316-5c0d871b-e1c6-4b54-816b-9d8bd0fccbbf.png)
 
-![image](https://user-images.githubusercontent.com/69987069/157765612-daa384ce-8aca-4565-ab91-1b695767406a.png)
+### Penn State Computer Science Student ### 
+
+Some facts about me: 
+
+
+
+
+
+
+
