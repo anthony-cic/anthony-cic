@@ -7,9 +7,9 @@ Pennsylvania State Computer Science Student
 
 
 Some facts about me: 
-* Sophomore 
+* Junior 
 * Minoring in Mathematics 
-* Profficiency in Python, Java, SQL, C, Swift 
+* Profficiency in Python, Flask, HTML, CSS, JavaScript, Java, SQL, C
 * Passionate to learn 
 
 Linkedin: 
