@@ -16,7 +16,7 @@ Penn State University
 ### 📫 Get in Touch
 - Resume: [View My Resume](https://github.com/anthony-cic/anthony-cic.github.io//blob/main/ResumeFA24.pdf)
 - Email: antcicardo@gmail.com
-- LinkedIn: https://www.linkedin.com/in/anthony-cicardo/
+- LinkedIn: [View My Page](https://www.linkedin.com/in/anthony-cicardo/)
 
 ### 🌟 Skills
 - **Languages:** Python, C#, JavaScript, HTML, CSS
