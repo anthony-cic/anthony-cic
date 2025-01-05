@@ -14,7 +14,7 @@ Penn State University
 - **E-sports Team Captain:** Led Penn State's Rainbow Six Siege team (2020–2022)
 
 ### 📫 Get in Touch
-- Resume: View My Resume
+- Resume: [View My Resume](https://github.com/anthony-cic/anthony-cic.github.io//blob/main/ResumeFA24.pdf)
 - Email: antcicardo@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anthony-cicardo/
 
