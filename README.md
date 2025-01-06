@@ -26,6 +26,6 @@ Penn State University
 
 ## 📚 Projects 
 - [**Rendering & Animation (Python)**](https://github.com/anthony-cic/RayTrace-Animation-Rendering)
-- [**Rollercoaster** (Python)**](https://github.com/anthony-cic/Rollercoaster)
+- [**Rollercoaster (Python)**](https://github.com/anthony-cic/Rollercoaster)
 - [**Drawing Application (Java)**](https://github.com/anthony-cic/Drawing-Application)
 - [**MIPS Pipeline (Verilog)**](https://github.com/anthony-cic/MIPS-Pipeline-)
