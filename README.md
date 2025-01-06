@@ -23,3 +23,9 @@ Penn State University
 - **Frameworks:** Flask, Next.js, Tailwind CSS
 - **Tools:** Docker, AWS, Tracealyzer, PostgreSQL
 - **Other:** CI/CD, Socket Programming, Debugging, Performance Optimization
+
+## 📚 Projects 
+- [**Rendering & Animation (Python)**](https://github.com/anthony-cic/RayTrace-Animation-Rendering)
+- [**Rollercoaster** (Python)**](https://github.com/anthony-cic/Rollercoaster)
+- [**Drawing Application (Java)**](https://github.com/anthony-cic/Drawing-Application)
+- [**MIPS Pipeline (Verilog)**](https://github.com/anthony-cic/MIPS-Pipeline-)
